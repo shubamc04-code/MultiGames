@@ -12,7 +12,7 @@ const games = [
     name: "Find The Color",
     type: "Competition",
     players: "1 to 6",
-    image: "/assets/findTheColor.png",
+    image: "/assets/findTheColor.jpg",
     description: "Quick reflexes! Match and find the right color before others.",
   },
   {
